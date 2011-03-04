@@ -118,7 +118,7 @@ one_char_wildcard ?
 one_word_wildcard #
 or_wildcard |
 ref_corpus_loaded 0
-regex_flag 0
+regex_flag 1
 search_term 
 show_clusters_case 0
 show_clusters_cluster 1
