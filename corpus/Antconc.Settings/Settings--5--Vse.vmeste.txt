@@ -812,6 +812,18 @@ FILE C:/corpus/Texts/Basic_Corpus/minea/minea--12--DEKABR/minea--DEKABR-30--2.tx
 FILE C:/corpus/Texts/Basic_Corpus/minea/minea--12--DEKABR/minea--DEKABR-30--DOP.txt
 FILE C:/corpus/Texts/Basic_Corpus/minea/minea--12--DEKABR/minea--DEKABR-31.txt
 FILE C:/corpus/Texts/Basic_Corpus/minea/minea--BOGORODICHNY.VOSKRESNYE.txt
+FILE C:/corpus/Texts/Basic_Corpus/molitvoslov/molitvoslov--01--MOLITVY.UTRENNIE.txt
+FILE C:/corpus/Texts/Basic_Corpus/molitvoslov/molitvoslov--02--POMJANNIK.txt
+FILE C:/corpus/Texts/Basic_Corpus/molitvoslov/molitvoslov--03--MOLITVY.NA.SON.GRJADUWIM.txt
+FILE C:/corpus/Texts/Basic_Corpus/molitvoslov/molitvoslov--04.1.1--KANON.POKAJANNYJ.txt
+FILE C:/corpus/Texts/Basic_Corpus/molitvoslov/molitvoslov--04.1.2--KANON.IISUSU.SLADCHAJWEMU.txt
+FILE C:/corpus/Texts/Basic_Corpus/molitvoslov/molitvoslov--04.2--KANON.BOGORODICE.txt
+FILE C:/corpus/Texts/Basic_Corpus/molitvoslov/molitvoslov--05--AKAFIST.IISUSU.SLADCHAJWEMU.txt
+FILE C:/corpus/Texts/Basic_Corpus/molitvoslov/molitvoslov--06--AKAFIST.BOGORODICE.txt
+FILE C:/corpus/Texts/Basic_Corpus/molitvoslov/molitvoslov--07--AKAFIST.NIKOLAJU.CHUDOTVORCU.txt
+FILE C:/corpus/Texts/Basic_Corpus/molitvoslov/molitvoslov--08--PRAVILO.OT.OSKVERNENIJA.txt
+FILE C:/corpus/Texts/Basic_Corpus/molitvoslov/molitvoslov--09--KO.PRICHAWENIJU.txt
+FILE C:/corpus/Texts/Basic_Corpus/molitvoslov/molitvoslov--10--PO.PRICHAWENII.txt
 FILE C:/corpus/Texts/Basic_Corpus/octoih/oktoix--10--EKSAPOSTILARII.VOSKRESNYE.txt
 FILE C:/corpus/Texts/Basic_Corpus/octoih/oktoix--11--EVANGELIJA.UTRENNIE.VOSKRESNYE.txt
 FILE C:/corpus/Texts/Basic_Corpus/octoih/oktoix--12--TROICHNY.SEDMICHNYE.txt
@@ -1535,6 +1547,8 @@ FILE C:/corpus/Texts/Orthlib/minejnye.sluzhby.raznoe/minejnye.sluzhby.raznoe--12
 FILE C:/corpus/Texts/Orthlib/minejnye.sluzhby.raznoe/minejnye.sluzhby.raznoe--12--DEKABR/minejnye.sluzhby.raznoe--DEKABR-23--RAVNOAP.NAUMA.OXRIDSKOGO.txt
 FILE C:/corpus/Texts/Orthlib/minejnye.sluzhby.raznoe/minejnye.sluzhby.raznoe--12--DEKABR/minejnye.sluzhby.raznoe--DEKABR-30--MAKARIJA.MITROP.MOSKOVSKOGO.txt
 FILE C:/corpus/Texts/Orthlib/minejnye.sluzhby.raznoe/minejnye.sluzhby.raznoe--NEDELJA.3.PO.PJATIDESJATNICE--SOBOR.PSKOVSKIX.SVJATYX.txt
+FILE C:/corpus/Texts/Orthlib/molitvoslov/molitvoslov--MOLITVY.UTRENNIE.txt
+FILE C:/corpus/Texts/Orthlib/molitvoslov/molitvoslov--PRICHAWENIE.U.EDINOVERCEV.txt
 FILE C:/corpus/Texts/Orthlib/molitvy,molebny/MOLEBNOE.PENIE.NA.NOVYJ.GOD.txt
 FILE C:/corpus/Texts/Orthlib/molitvy,molebny/MOLEBNOE.PENIE.PRI.NACHATII.UCHENIJA.OTROKOV.txt
 FILE C:/corpus/Texts/Orthlib/molitvy,molebny/MOLEBNOE.PENIE.V.NOVOLETIE.txt

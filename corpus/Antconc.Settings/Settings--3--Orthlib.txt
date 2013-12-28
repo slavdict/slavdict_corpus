@@ -441,6 +441,8 @@ FILE C:/corpus/Texts/Orthlib/minejnye.sluzhby.raznoe/minejnye.sluzhby.raznoe--12
 FILE C:/corpus/Texts/Orthlib/minejnye.sluzhby.raznoe/minejnye.sluzhby.raznoe--12--DEKABR/minejnye.sluzhby.raznoe--DEKABR-23--RAVNOAP.NAUMA.OXRIDSKOGO.txt
 FILE C:/corpus/Texts/Orthlib/minejnye.sluzhby.raznoe/minejnye.sluzhby.raznoe--12--DEKABR/minejnye.sluzhby.raznoe--DEKABR-30--MAKARIJA.MITROP.MOSKOVSKOGO.txt
 FILE C:/corpus/Texts/Orthlib/minejnye.sluzhby.raznoe/minejnye.sluzhby.raznoe--NEDELJA.3.PO.PJATIDESJATNICE--SOBOR.PSKOVSKIX.SVJATYX.txt
+FILE C:/corpus/Texts/Orthlib/molitvoslov/molitvoslov--MOLITVY.UTRENNIE.txt
+FILE C:/corpus/Texts/Orthlib/molitvoslov/molitvoslov--PRICHAWENIE.U.EDINOVERCEV.txt
 FILE C:/corpus/Texts/Orthlib/molitvy,molebny/MOLEBNOE.PENIE.NA.NOVYJ.GOD.txt
 FILE C:/corpus/Texts/Orthlib/molitvy,molebny/MOLEBNOE.PENIE.PRI.NACHATII.UCHENIJA.OTROKOV.txt
 FILE C:/corpus/Texts/Orthlib/molitvy,molebny/MOLEBNOE.PENIE.V.NOVOLETIE.txt
