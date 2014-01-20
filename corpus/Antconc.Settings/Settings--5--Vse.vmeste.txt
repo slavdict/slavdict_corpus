@@ -28,14 +28,14 @@ SpaceSeparator 0
 SpacingMark 0
 Symbol 0
 UppercaseLetter 0
-arrange1_position 1
-arrange1_position_label 1R
+arrange1_position 0
+arrange1_position_label 0
 arrange2_color #00d500
-arrange2_position 2
-arrange2_position_label 2R
+arrange2_position 1
+arrange2_position_label 1R
 arrange3_color #c11ac1
-arrange3_position 3
-arrange3_position_label 3R
+arrange3_position 2
+arrange3_position_label 2R
 arrange_color red
 case_flag 0
 clusters_cluster_textokens_label Total No. of Cluster Tokens
